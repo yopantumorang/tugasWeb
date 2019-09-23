@@ -1,0 +1,51 @@
+.all {
+    background: rgb(243, 243, 243);
+    width: 900px;
+    margin: 10px auto;
+}
+
+.all .header {
+    background: rgb(230, 64, 14);
+    padding: 2px 10px;
+}
+
+.all .menu {
+    background: rgb(184, 142, 108);
+}
+
+.all .menu ul {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background: rgb(226, 169, 131);
+}
+
+.all .menu ul li {
+    float: left;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.body {
+    height: 400px;
+}
+
+.all .body .sisikiri {
+    width: 25%;
+    float: left;
+    background: rgb(252, 252, 252);
+    height: 100%;
+}
+
+.all .body .content {
+
+    height: 100%;
+    width: 75%;
+    float: left;
+}
+
+.all .footer {
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(216, 216, 216)
+}
